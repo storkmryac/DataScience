@@ -7,6 +7,10 @@
   
 ### Machine Learning
 
+  * [Stanford, Andrew Ng](https://zh-tw.coursera.org/learn/machine-learning)
+
+
+
 
 ### Deep Learning
 
