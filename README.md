@@ -14,9 +14,9 @@
 ### ML(Machine Learning)
 
   * [學習的心路歷程](http://dataconomy.com/machine-learning-year/)
-  * [(Stanford)Machine Learning](https://zh-tw.coursera.org/learn/machine-learning) - using Matlab
+  * [[Stanford]Machine Learning](https://zh-tw.coursera.org/learn/machine-learning) - using Matlab
   * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - using Python
-  * [(Google)Deep Learning](https://www.udacity.com/course/deep-learning--ud730) - using Tensorflow  
+  * [[Google]Deep Learning](https://www.udacity.com/course/deep-learning--ud730) - using Tensorflow  
 
 
 ### Deep Learning
