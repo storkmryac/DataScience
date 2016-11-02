@@ -3,9 +3,15 @@
 ### Statistics
 
   * [台大電機葉丙成教授 機率與統計](https://www.youtube.com/watch?v=GwSEguqJj6U&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)
-  
-  
-### Machine Learning
+
+
+### NLP(Natural Language Processing)
+
+  * [Stanford, Richard Socher](http://cs224d.stanford.edu/index.html) - vide(https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+    
+
+
+### ML(Machine Learning)
 
   * [Stanford, Andrew Ng](https://zh-tw.coursera.org/learn/machine-learning) - using Matlab
 
