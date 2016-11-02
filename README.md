@@ -15,7 +15,7 @@
 ### Deep Learning
 
   * [一天搞懂深度學習 學習心得](https://www.youtube.com/watch?v=ZrEsLwCjdxY)
-  * [Applied paper table](https://github.com/kristjankorjus/applied-deep-learning-resources) - CNN(mainly), DQN and RNN
+  * [Applied Paper Table](https://github.com/kristjankorjus/applied-deep-learning-resources) - CNN(mainly), DQN and RNN
 
 
 ### Python
