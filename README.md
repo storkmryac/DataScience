@@ -23,6 +23,10 @@
   * [從0到1的網頁爬蟲](http://tw.pyladies.com/~marsw/crawler01.slides.html#/)
   
 
+### Scikit-learn 
+
+  * [PyCon2015](https://github.com/jakevdp/sklearn_pycon2015)
+
 
 ### Tensorflow
 
