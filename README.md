@@ -10,7 +10,7 @@
 
 ### Deep Learning
 
-  * [一天搞懂深度學習 學習心得](https://www.youtube.com/watch?v=ZrEsLwCjdxY)
+  * [一天搞懂深度學習 學習心得](https://www.youtube.com/watch?v=ZrEsLwCjdxY)
 
 
 
