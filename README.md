@@ -37,7 +37,7 @@
 
 ### Tensorflow
 
-  * [莫煩Tensorflow](https://www.youtube.com/playlist?list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8)  16
+  * [莫煩Tensorflow](https://www.youtube.com/playlist?list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8)  16 - 精簡與整理自Tensorflow官方文檔中
   * [Tensorflow官方文檔中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/overview.html)
   
 
