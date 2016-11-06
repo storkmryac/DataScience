@@ -17,6 +17,7 @@
   * [[Stanford] Machine Learning](https://zh-tw.coursera.org/learn/machine-learning) - using Matlab
   * [[Google] Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - using Python
   * [[Google] Deep Learning](https://www.udacity.com/course/deep-learning--ud730) - using Tensorflow  
+  * [[Stanford] Introduction to Statistical Learning with Applications in R](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/?utm_source=share_buttons&utm_medium=social_media&utm_campaign=social_share) - using R
 
 
 ### Deep Learning
