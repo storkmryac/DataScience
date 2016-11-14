@@ -26,6 +26,11 @@
   * [Applied Paper Table](https://github.com/kristjankorjus/applied-deep-learning-resources) - CNN(mainly), DQN and RNN
 
 
+### Deep Learning
+
+  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+
+
 ### Python
 
   * [從0到1的網頁爬蟲](http://tw.pyladies.com/~marsw/crawler01.slides.html#/)
