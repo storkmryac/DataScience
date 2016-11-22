@@ -33,7 +33,7 @@
 
 ### Python
 
-  * [可汗學院:python基礎](http://open.163.com/special/Khan/computer.html)
+  * [可汗學院:python基礎](http://open.163.com/special/Khan/computer.html)
  
   * [從0到1的網頁爬蟲](http://tw.pyladies.com/~marsw/crawler01.slides.html#/)
   
