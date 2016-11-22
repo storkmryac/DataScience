@@ -8,6 +8,8 @@
 ### NLP(Natural Language Processing)
 
   * [Stanford, Richard Socher](http://cs224d.stanford.edu/index.html) - [youtube](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+  
+  * [University of Michigan](https://www.coursera.org/learn/natural-language-processing)
     
 
 
