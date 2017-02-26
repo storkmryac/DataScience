@@ -14,7 +14,7 @@
 
 ### CVPR(Computer Vision and Pattern Recognition)
 
-  * [CVPR conference paper](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147)
+  * [CVPR conference paper](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000147)
 
 
 ### ML(Machine Learning)
