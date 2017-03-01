@@ -35,6 +35,10 @@
 ### CNN
 
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+  
+  
+  https://github.com/ty4z2008/Qix/blob/master/dl2.md
+  https://www.zhihu.com/question/26006703
 
 
 ### Python
